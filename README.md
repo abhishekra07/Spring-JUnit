@@ -20,4 +20,4 @@ this tells mock service which method to intercept and what response to return.
 Use above annotation instead of @Autowired or @MockBean if you want to mock only some methods.
 
 # Tip
-@Autowire service/component to test and @mMckBean all the dependencies.
+@Autowire service/component to test and @MockBean all the dependencies.
